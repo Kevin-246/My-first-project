@@ -1,2 +1,3 @@
 # My-first-project
-simple project
+
+This is a simple project.
